@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+h1 {
+	color: white;
+	background-color:grey;
+	padding: 9px;
+	border-radius: 14px;
+	text-align: left;
+	display: inline-block;
+}
+
+h2 {
+	color: white;
+	background-color:#213DF5;
+	padding: 9px;
+	border-radius: 14px;
+	text-align: left;
+	display: inline-block;
+}
+
+body {
+ background-color: #67C6FD;
+ font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.pep {
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	transition: 0.125s;
+	margin-left: 50px;
+}
+
+.pep:hover {
+	color: white;
+	transition: 0.125s;
+	text-decoration: underline;
+}
+
+footer  {
+   height: 100px;
+   text-align: center;
+   background-color: grey;`
+}
+
+section{
+   padding: 10px;
+   height: 650px;
+   background-color: white; 
+}
+
